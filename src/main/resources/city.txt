@@ -1,0 +1,15 @@
+Kiev
+Lviv
+Ternopil
+Kharkiv
+WrongCityNameForExample
+Vinnytsia
+Lutsk
+Kiev
+
+Ivano-Frankivsk
+Bila Tserkva
+Uman'
+Shepetivka
+Pochaiv
+444
