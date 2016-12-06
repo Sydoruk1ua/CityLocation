@@ -1,4 +1,4 @@
-This app take city from file and display location.
+This app takes city from file and displays location.
 
 To produces the final Jar, just package it :
 mvn package
